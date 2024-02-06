@@ -3,7 +3,7 @@
 **Project Title: Customer Complaint Analysis for Bank**
 
 **Overview:**
-The "Customer Complaint Analysis for Bank" project aims to leverage natural language processing (NLP) techniques to analyze and categorize customer complaints received by a bank. The dataset comprises various features such as Date received, Product, Sub-product, Issue, Sub-issue, Consumer complaint narrative, Company public response, Company, State, ZIP code, Tags, Consumer consent provided?, Submitted via, Date sent to the company, Company response to consumer, Timely response?, Consumer disputed?, Complaint ID. The project employs data cleaning, preprocessing, scaling, and visualizations to understand and categorize customer complaints accurately.
+The "Customer Complaint Analysis for Bank" project aims to leverage natural language processing (NLP) techniques to analyze and categorize customer complaints received by a bank. The dataset comprises various features such as Date received, Product, Sub-product, Issue, Sub-issue, Consumer complaint narrative, Company public response, Company, State, ZIP code, Tags, Consumer consent provided?, Submitted via, Date sent to the company, Company response to consumer, Timely response? Consumer disputed?, Complaint ID. The project employs data cleaning, preprocessing, scaling, and visualizations to understand and categorize customer complaints accurately.
 
 **Key Features:**
 
