@@ -28,7 +28,7 @@ The "Customer Complaint Analysis for Bank" project aims to leverage natural lang
    - Applied Softmax activation in the output layer for multiclass classification.
 
 5. **Model Training:**
-   - Compiled the model with categorical crossentropy loss and the Adam optimizer.
+   - Compiled the model with categorical cross-entropy loss and the Adam optimizer.
    - Trained the model on the preprocessed dataset to learn patterns and associations between textual features and complaint categories.
    - Evaluated the model's performance using accuracy as a metric.
 
